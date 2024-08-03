@@ -1,5 +1,13 @@
 # Change Log
 
+## 3.4.1
+
+### Patch Changes
+
+- [#3675](https://github.com/graphql/graphiql/pull/3675) [`676f910`](https://github.com/graphql/graphiql/commit/676f910638eed5177146045d028a74e623884b45) Thanks [@dimaMachina](https://github.com/dimaMachina)! - move `@graphiql/toolkit` to `devDependecies` because umd build is bundled with all dependencies in one file
+
+- [#3655](https://github.com/graphql/graphiql/pull/3655) [`5450e6b`](https://github.com/graphql/graphiql/commit/5450e6b547add41a9dd89145934e79576b5544e6) Thanks [@dimaMachina](https://github.com/dimaMachina)! - remove unused dependencies `graphql-language-service` and `markdown-it`
+
 ## 3.4.0
 
 ### Minor Changes
